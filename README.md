@@ -20,6 +20,10 @@ The final project demonstrates the practical application of computer graphics pr
 
 The project was developed using **OpenGL** and C++, and aims to provide an interactive experience for manipulating 3D objects.
 
+### Course Information
+For more details on the course, refer to the [AIUB Undergraduate Course Catalog](https://www.aiub.edu/faculties/fst/ug-course-catalog).  
+*Note: Search for "Computer Graphics" for specific course information.*
+
 ## Project Description
 
 The project involves creating a 3D environment where users can:
