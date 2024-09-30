@@ -43,7 +43,7 @@ The project involves creating a 3D environment where users can:
 
 - **Programming Language:** C++
 - **Graphics Library:** OpenGL
-- **IDE:** Visual Studio / Code::Blocks
+- **IDE:** Code::Blocks
 - **Tools:** GLUT (OpenGL Utility Toolkit)
 
 ## How to Run
@@ -53,10 +53,14 @@ To run the project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Raihan4520/Computer-Graphics.git
-2. Open the project in your preferred IDE (e.g., Visual Studio, Code::Blocks).
-3. Ensure that OpenGL and GLUT are installed and configured properly on your machine.
-4. Build the project. In Visual Studio: **Build > Build Solution**
-5. Run the project by pressing F5 or clicking the "Start" button.
+2. Ensure that OpenGL and GLUT are installed and configured properly on your machine.
+3. Open the project in your preferred IDE (e.g., Visual Studio, Code::Blocks).
+4. Build and run the project.
+
+### To Run in Code::Blocks
+1. Open the project: Go to **File > Open** and select the `.cbp` project file.
+2. Build the project: Click on **Build > Build** or press `Ctrl + F9`.
+3. Run the project: Click on **Build > Run** or press `F10`.
 
 ## Contact
 
