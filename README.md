@@ -2,6 +2,10 @@
 
 This repository contains the final project for the **Computer Graphics** course at **American International University - Bangladesh (AIUB)**. The project focuses on implementing key concepts of computer graphics using **OpenGL**.
 
+### Course Information
+For more details on the course, refer to the [AIUB Undergraduate Course Catalog](https://www.aiub.edu/faculties/fst/ug-course-catalog).  
+*Note: Search for "Computer Graphics" for specific course information.*
+
 ## Table of Contents
 - [Overview](#overview)
 - [Project Description](#project-description)
@@ -19,10 +23,6 @@ The final project demonstrates the practical application of computer graphics pr
 - Interactive control using keyboard and mouse inputs
 
 The project was developed using **OpenGL** and C++, and aims to provide an interactive experience for manipulating 3D objects.
-
-### Course Information
-For more details on the course, refer to the [AIUB Undergraduate Course Catalog](https://www.aiub.edu/faculties/fst/ug-course-catalog).  
-*Note: Search for "Computer Graphics" for specific course information.*
 
 ## Project Description
 
