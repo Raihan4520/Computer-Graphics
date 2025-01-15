@@ -22,7 +22,7 @@ The final project demonstrates the practical application of computer graphics pr
 - Basic object rendering and manipulation
 - Interactive control using keyboard and mouse inputs
 
-The project was developed using **OpenGL** and C++, and aims to provide an interactive experience for manipulating 3D objects.
+The project was developed using **OpenGL** and C++, and aims to provide an interactive experience for manipulating 2D and 3D objects.
 
 ## Project Description
 
